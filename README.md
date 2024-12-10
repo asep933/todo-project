@@ -19,12 +19,18 @@ A simple portfolio project showcasing a Todo application. This project highlight
 ## How to Use
 
 1. **Add a Project**:
+<<<<<<< HEAD
 
+=======
+>>>>>>> c36490ba29566d1e801bae0ab8d3ae830bcb4702
    - Enter the project name in the input field.
    - Click the "Add" button to add the project to the list.
 
 2. **Edit a Project**:
+<<<<<<< HEAD
 
+=======
+>>>>>>> c36490ba29566d1e801bae0ab8d3ae830bcb4702
    - Click the "Edit" button next to a project.
    - Modify the project name and save the changes.
 
@@ -32,3 +38,7 @@ A simple portfolio project showcasing a Todo application. This project highlight
    - Click the "Delete" button next to a project to remove it from the list.
 
 ## Project Structure
+<<<<<<< HEAD
+=======
+
+>>>>>>> c36490ba29566d1e801bae0ab8d3ae830bcb4702
